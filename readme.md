@@ -6,5 +6,3 @@ Celem jest zapoznanie z gitem i githubem, umieszczenie projektu na github pages.
 
 ## Technologie
 HTML, CSS, git, github
-
-``` code
